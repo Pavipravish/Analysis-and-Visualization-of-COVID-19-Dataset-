@@ -1,7 +1,7 @@
 # Analysis-and-Visualization-of-COVID-19-Dataset
 ```
-Name : Janardhan P
-Reg No : 212224040128
+Name : pravish J
+Reg No : 212224040249
 ```
 ## Aim
 
